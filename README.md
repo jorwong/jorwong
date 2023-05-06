@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorwong)](https://github.com/jorwong/github-readme-stats)
+
 <!--
 **jorwong/jorwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
