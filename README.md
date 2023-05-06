@@ -10,7 +10,6 @@
   <p>⚡ Goals: Training to be a DevOps Engineer</p>
 </section>
 
-<br>
 
 ## 💼 Technical Skills
 ### Programming Languages
